@@ -1,0 +1,2 @@
+<script src="<?php echo e(asset('ui/website/vendor/jquery/jquery.min.js')); ?>"></script>
+  <script src="<?php echo e(asset('ui/website/vendor/bootstrap/js/bootstrap.bundle.min.js')); ?>"></script><?php /**PATH E:\myproject\resources\views/website/includes/scripts.blade.php ENDPATH**/ ?>
